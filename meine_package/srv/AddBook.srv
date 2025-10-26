@@ -1,0 +1,5 @@
+int32 isbn
+string title
+string author
+---
+string status
